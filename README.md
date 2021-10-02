@@ -5,7 +5,7 @@
 
 <p align="center"> Quote of the day Chrome Extension</p>
 
-![Screenshot](Screenshot1.png)
+![Screenshot](assets/Screenshot1.png)
 
 ## Features
 
@@ -35,7 +35,7 @@ You need to follow below steps to run this extension:
  - Enable Developer Mode by clicking the toggle switch next to Developer mode.
 - Click the Load unpacked button and select the extension directory (i.e quote_extension where your code is cloned)
 
-![Screenshot](LoadUnpacked.png)
+![Screenshot](assets/LoadUnpacked.png)
 
 - Ta-da! The extension has been successfully installed.  
   <img style ="width:20px; height:20px" src="quote.png"> icon were included in the manifest, this icon will be created for the extension.
